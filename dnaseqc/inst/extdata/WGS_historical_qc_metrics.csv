@@ -1,0 +1,10 @@
+batch	precision_snv	precision_indel	recall_snv	recall_indel	mendelian_snv	mendelian_indel	total	precision_snv_performance	precision_indel_performance	recall_snv_performance	recall_indel_performance	mendelian_snv_performance	mendelian_indel_performance	total_performance
+BGI_SEQ2000_BGI_20180518_PCR	0.99661	0.97358	0.99777	0.97954	0.95073	0.7947	0.96693	Fair	Fair	Good	Fair	Great	Fair	Fair
+BGI_T7_WGE_20191105_PCR-free	0.99683	0.98552	0.99643	0.98006	0.9496	0.88203	0.97431	Good	Good	Bad	Good	Good	Good	Good
+ILM_Nova_ARD_20181108_PCR-free	0.99612	0.98423	0.99806	0.99234	0.94703	0.88457	0.97483	Fair	Good	Good	Good	Fair	Great	Good
+ILM_Nova_ARD_20190111_PCR-free	0.99731	0.98741	0.99942	0.99566	0.95047	0.87917	0.97643	Great	Great	Great	Great	Great	Good	Great
+ILM_Nova_BRG_20180930_PCR-free	0.99757	0.98872	0.99951	0.99698	0.94773	0.89257	0.97698	Great	Great	Great	Great	Good	Great	Great
+ILM_Nova_WUX_20190917_PCR	0.97553	0.95478	0.98542	0.96844	0.92053	0.7842	0.94763	Bad	Bad	Bad	Bad	Bad	Fair	Bad
+ILM_XTen_ARD_20170403_PCR	0.99678	0.96339	0.99698	0.96924	0.94823	0.7366	0.95931	Good	Fair	Fair	Fair	Good	Bad	Fair
+ILM_XTen_NVG_20170329_PCR	0.99601	0.95042	0.99755	0.95951	0.94563	0.69817	0.95309	Bad	Bad	Fair	Bad	Bad	Bad	Bad
+ILM_XTen_WUX_20170216_PCR	0.99722	0.97927	0.99871	0.98572	0.94607	0.8045	0.96786	Good	Good	Good	Good	Fair	Good	Good

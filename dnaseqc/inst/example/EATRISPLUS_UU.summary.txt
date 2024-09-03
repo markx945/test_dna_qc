@@ -1,0 +1,3 @@
+Family	Total_Variants	Mendelian_Concordant_Variants	Mendelian_Concordance_Rate
+EATRISPLUS_UU.INDEL	1294054	1178598	0.910779611979
+EATRISPLUS_UU.SNV	5034285	4868250	0.967019149691
